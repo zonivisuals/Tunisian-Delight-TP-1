@@ -117,7 +117,8 @@ class Games:
             return 5
         else:
             return 0
-        
+
+#ribat_links is a game where the player draw 4 cards and if the sum of their ranks multiplied by the lowest rank is a palindrome number he wins 10 dinars else he loses. 
     def ribat_links(self):
         cards = self.deck_dealer.draw_cards(4)
 
