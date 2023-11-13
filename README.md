@@ -1,5 +1,7 @@
 # Tunisian Card Games Simulation
 
+#### Implemented by Mohamed Hajji TD 3
+
 ## Overview
 
 This project involves the implementation of a Monte Carlo simulation in Python to evaluate and compare the probabilities of winning and expected winnings for six different Tunisian card games.
@@ -38,7 +40,6 @@ Expected Winnings: The total money earned.
 - `README.md`: Documentation file describing the project and how to run the simulation.
 - `results_chart.png`: Sample chart generated based on simulation results.
 
-#### Implemented by Mohamed Hajji TD 3
 
 ```bash
 python simulation.py
