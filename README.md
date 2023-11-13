@@ -38,6 +38,7 @@ Expected Winnings: The total money earned.
 - `README.md`: Documentation file describing the project and how to run the simulation.
 - `results_chart.png`: Sample chart generated based on simulation results.
 
+#### Implemented by Mohamed Hajji TD 3
 
 ```bash
 python simulation.py
